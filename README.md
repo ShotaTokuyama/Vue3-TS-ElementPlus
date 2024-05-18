@@ -1,15 +1,10 @@
-# Project_Backend
+# Project
 
-# Project_Frontend
+学習の為、フロントとバックエンドのプロジェクト作成
 
-学習のため
-フロントとバックエンドのプロジェクト作成
+# frontend
 
-# fronend
-
-Vue3
-TypeScript
-ElementPlus
+Vue3/TypeScript/ElementPlus
 
 # backend
 
