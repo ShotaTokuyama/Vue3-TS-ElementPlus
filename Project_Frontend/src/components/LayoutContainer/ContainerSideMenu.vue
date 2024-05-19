@@ -56,9 +56,12 @@
 .el-aside {
   width: 192px;
   background-color: #d1edc4;
+  color: #fff;
+  font-weight: bold;
 }
 
-.el-menu {
+.el-menu,
+.el-menu-item {
   background-color: #d1edc4;
 }
 </style>
