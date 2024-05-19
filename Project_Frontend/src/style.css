@@ -68,45 +68,12 @@ button:focus-visible {
   height: 100vh;
 }
 
-#container {
-  height: calc(100vh - 60px);
-  color: black;
+.el-container {
+  height: calc(100vh - 64px);
 }
 
-.el-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 64px;
-  color: #fff;
-  background-color: #529b2e;
-}
-
-.header-title {
-  font-size: 24px;
-  font-weight: bold;
-}
-
-.el-aside {
-  width: 192px;
-  background-color: #d1edc4;
-}
-
-.el-menu {
-  background-color: #d1edc4;
-}
-
-.row {
-  padding: 0.3rem 6rem;
-}
-
-.col {
-  padding-right: 5rem;
-}
-
-.time {
-  font-size: 12px;
-  color: #999;
+.el-main {
+  overflow: hidden;
 }
 
 .bottom {
